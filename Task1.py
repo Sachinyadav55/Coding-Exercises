@@ -10,6 +10,8 @@ import os
 import sys
 import subprocess
 import argparse
+import numpy
+import pandas
 
 file1 = open("Data1.csv")
 file2 = open("Data2.csv")
@@ -19,5 +21,4 @@ file3 = open("Data3.csv")
 templist = [file1, file2, file3]
 tempdict = {}
 
-for x in templist:
-    
+#for x in templist:

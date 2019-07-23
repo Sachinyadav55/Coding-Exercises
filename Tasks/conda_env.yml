@@ -1,0 +1,5 @@
+name: o-dependencies
+channels:
+  - defaults
+prefix: /home/sachin/miniconda3/envs/o-dependencies
+

@@ -1,4 +1,4 @@
-# Sage Bionetworks Internship Coding-Exercises
+# Coding-Exercises
 Name: Sachin Sarath Y Kothandaraman
 
 ## Dependencies
